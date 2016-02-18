@@ -1,4 +1,4 @@
-# functionserializer.js
+# functionserializer
 
 A micro library for serializing and deserializing functions to strings
 
