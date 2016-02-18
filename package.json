@@ -1,0 +1,24 @@
+{
+  "name": "functionserializer",
+  "version": "0.0.1",
+  "description": "A library for serializing functions",
+  "main": "./functionserializer",
+  "scripts": {
+    "test": "mocha -u tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richardanaya/functionserializer.git"
+  },
+  "keywords": [],
+  "author": "Richard Anaya <richard.anaya@gmail.com> (http://www.richardanaya.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardanaya/functionserializer/issues"
+  },
+  "homepage": "https://github.com/richardanaya/functionserializer#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "uglify": "^0.1.5"
+  }
+}
